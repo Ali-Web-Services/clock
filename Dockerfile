@@ -30,4 +30,4 @@ COPY --from=builder /app/dist /app
 EXPOSE 80
 
 # Command to serve the app
-CMD ["serve", "-s", "dist", "-l", "80"]
+CMD ["serve", "-s", ".", "-l", "80"]
