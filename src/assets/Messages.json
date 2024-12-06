@@ -1,0 +1,29 @@
+{
+    "messages": [
+        {
+            "name": "welcome",
+            "sequence": [
+                "welcome to alaiyo.world",
+                "it's great to have you here.",
+                "let me know if you need anything."
+            ]
+        },
+        {
+            "name": "kreashawn",
+            "sequence": [
+                "gucci gucci",
+                "louis louis",
+                "fendi fendi",
+                "prada"
+            ]
+        },
+        {
+            "name": "aisha",
+            "sequence": [
+                "hi aisha",
+                "i just wanted 2 say",
+                "i luv u <3"
+            ]
+        }
+    ]
+}
