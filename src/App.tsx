@@ -15,6 +15,7 @@ function App() {
   return (
     <Router>
       <Routes>
+          <Route path="/" element={<Pomodoro/>}/>
           <Route path="/timer" element={<Pomodoro/>}/>
           <Route path="/echo/:message" element={<Echo/>}/>
           <Route path="/matrix" element={<Matrix/>}/>
